@@ -431,7 +431,12 @@ blockquote {
 	color: #01256e;
 }
 
-
+.time-block p {
+	font-size 22px;
+	font-family: Lucida Grande;
+	line-height: 1.3em;
+	color: #01256e;
+}
 
 
 /*End of main section*/
