@@ -1,7 +1,5 @@
 $(document).ready(function() {
-	$(".hidden").hide();
-	$(".hidden").click(function() {
-		console.log(dir);
-		$(this).show();
-	})
+	$(".click").click(function() {
+		$(".box2 h6").toggleClass("hidden");
+	});
 })
