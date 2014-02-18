@@ -357,6 +357,7 @@ iframe {
 	height: 100%;
   position: fixed;
   background-color: #fff;
+	padding-bottom: 100px;
 }
 
 #sidebar p {
@@ -378,10 +379,10 @@ iframe {
 }
 
 #startup {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 .social li {
