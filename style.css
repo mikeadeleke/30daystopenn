@@ -329,6 +329,10 @@ blockquote {
 }
 
 
+iframe {
+	overflow: scroll;
+}
+
 /*end of main section*/
 
 /*End of index.html*/
