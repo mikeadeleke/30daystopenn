@@ -299,6 +299,7 @@ blockquote {
 .box2 {
 	padding: 10px 30px 20px;
 	width: 300px;
+	height: 100%;
 	border: 1px solid lightgray;
 	border-radius: 10px;
 	background-color: white;
@@ -329,6 +330,10 @@ blockquote {
 }
 
 
+iframe {
+	overflow: scroll;
+}
+
 /*end of main section*/
 
 /*End of index.html*/
@@ -352,6 +357,7 @@ blockquote {
 	height: 100%;
   position: fixed;
   background-color: #fff;
+	padding-bottom: 100px;
 }
 
 #sidebar p {
@@ -373,10 +379,10 @@ blockquote {
 }
 
 #startup {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 .social li {
