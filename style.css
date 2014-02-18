@@ -121,6 +121,7 @@ index.html
 	margin: 10px auto;
 	border: 3px solid white;
 	border-radius: 10px; 
+	cursor: pointer;
 }
 
 
@@ -152,6 +153,7 @@ index.html
 	float: right;
 	top: -5px;
 	position: relative;
+	cursor: pointer;
 }
 
 /*end of header*/
@@ -199,6 +201,10 @@ index.html
 .box1 li {
 	display: inline;
 	padding: 10px;
+}
+
+.hidden {
+	display: none;
 }
 
 .edison {
@@ -262,7 +268,7 @@ blockquote {
 }
 
 .what-ive-done {
-	height: 800px;
+	height: 100%;
 	width: 100%;
 	margin: 0 auto;
 	padding-top: 20px;
@@ -270,7 +276,7 @@ blockquote {
 	color: #95001a;
 	text-align: center;
 	background-color: #eeeeee;
-	margin-bottom: 30px;
+	padding-bottom: 30px;
 }
 
 .what-ive-done h2, .what-ive-done p {
