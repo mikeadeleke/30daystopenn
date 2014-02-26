@@ -3,8 +3,8 @@ $(document).ready(function() {
 	$(".click").click(function(event) {
 		$(this).next().toggle();
 	});
-})
 
+})
 
 
 

@@ -336,6 +336,27 @@ iframe {
 
 /*end of main section*/
 
+/*twitter*/
+
+.twitter {
+	background-color: #383838;
+	padding: 20px;
+}
+
+.twitter-timeline {
+	position: relative;
+}
+
+.right {
+	float: right;
+}
+
+
+
+
+
+/*end of main twitter*/
+
 /*End of index.html*/
 
 
