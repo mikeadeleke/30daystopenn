@@ -62,12 +62,14 @@ index.html
 .container {
 	height: 400px;
 	width: 100%;
+	text-align: center;
 }
 
 .nav {
 	border-bottom: 5px solid #95001a;
 	background-color: white;
 	padding: 15px 10px;
+	text-align: left;
 }
 
 .nav li {
@@ -366,7 +368,6 @@ iframe {
 .container {
   width: 100%;
   height: 100%;
-  text-align: center;
 }
 	
 
